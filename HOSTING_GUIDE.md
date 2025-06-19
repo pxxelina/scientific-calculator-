@@ -1,6 +1,6 @@
 # Complete Guide to Hosting Your Calculator on GitHub
 
-Hello Lina! This guide will walk you through the entire process of hosting your calculator on GitHub, from downloading the code to making it live on the web.
+Hello ! This guide will walk you through the entire process of hosting your calculator on GitHub, from downloading the code to making it live on the web.
 
 ## Step 1: Download Your Calculator Code from Mocha
 
